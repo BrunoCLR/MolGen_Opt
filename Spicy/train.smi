@@ -98,7 +98,6 @@ COc1cc(\C=C\C(=O)CC(=O)\C=C\c2ccc(O)c(OC)c2)ccc1O
 O=C/C=C/c1ccccc1
 O=C(OCCc1ccccc1)/C=C/c2ccccc2
 CC(CCCC(C)=C)CCOC(C)=O
-COc1ccc(\C=C\C=O)cc1
 C[C@H]1CCC=C(C)C12CC[C@H](C2)C(C)(C)O
 CC/C=C/CC1=C(C)C(=O)CC1
 Cc1ccc(\C=C\C=O)cc1
@@ -142,7 +141,6 @@ COc1ccc(\C=C\C)cc1
 C\C1=C\CCC(=C)C2CC(C)(C)C2CC1
 CC1C(CCC1(C)O)C(C)=C
 O=COCc1ccccc1
-CC(C)[C@H]1CC=C(C)C=C1
 COc1cc(C)ccc1C(C)(C)C
 C/C(C=O)=C/c1occc1
 CC(=C)C1CCC(=CC1)COC(C)=O
